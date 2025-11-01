@@ -1,4 +1,15 @@
-<h2 align="center">😁 About Me</h2>
+<h2 align="center">Hi 👋, I'm Muzaffer</h2>
+
+<h3>😁 About Me</h3>
+
+- 🐧 Linux enthusiast & open-source fan from Germany 🇩🇪
+- 💻 A curious idiot who learns something new about himself every day
+- 🥋 Calisthenics & Kendo — my antidote to IT stress
+- ☕ Fun fact I accidentally turned my kitchen into a mini coffee shop.
+
+<h3>🚧 Coming Soon</h3>
+
+This space is still under construction — stay tuned and let yourself be surprised!
 
 <!--
 **KekMuzaffer/KekMuzaffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
