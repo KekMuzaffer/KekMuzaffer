@@ -22,6 +22,7 @@ This space is still under construction — stay tuned and let yourself be surpri
 
 <p align="left">
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="80" height="80"/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="debian" width="80" height="80"/></code>
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="80" height="80"/></code>
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="80" height="80"/></code>
 </p>
