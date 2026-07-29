@@ -12,6 +12,7 @@
 - [ ] 🐧 Linux – a journey that never ends
 - [ ] 🌱 Git
 - [ ] 🐍 Python
+- [ ] ⚙️ Ansible
 - [ ] 🤖 AI, Machine Learning & Deep Learning
 
 <h3>🚧 Coming Soon</h3>
