@@ -26,4 +26,5 @@ This space is still under construction — stay tuned and let yourself be surpri
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="debian" width="80" height="80"/></code>
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="80" height="80"/></code>
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="80" height="80"/></code>
+  <code><img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" alt="ansible" width="80" height="80"/></code>
 </p>
