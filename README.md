@@ -53,6 +53,7 @@
           <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
         </td>
         <td align="center" width="96">
+          <b>Debian</b>
           <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" width="48" height="48" alt="Debian" />
         </td>
       </tr>
