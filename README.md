@@ -15,17 +15,80 @@
 - [ ] ⚙️ Ansible
 - [ ] 🤖 AI, Machine Learning & Deep Learning
 
-<h3>🚧 Coming Soon</h3>
+---
 
-This space is still under construction — stay tuned and let yourself be surprised!
+<details>
+  <summary>🔧 MY SKILLS</summary>
 
-<h3>🔧 Languages and Tools</h3>
+  <h3 align="center">Languages</h3>
+  <div align="center">
+    <table>
+      <tr>
+        <td align="center" width="96">
+          <b>Bash</b>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
+        </td>
+        <td align="center" width="96">
+          <b>Python</b>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+        </td>
+        <td align="center" width="96">
+          <b>YAML</b>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" width="48" height="48" alt="YAML" />
+        </td>
+        <td align="center" width="96">
+          <b>Markdown</b>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="48" height="48" alt="Markdown" />
+        </td>
+      </tr>
+    </table>
+  </div>
 
-<p align="left">
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="80" height="80"/></code>
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" alt="debian" width="80" height="80"/></code>
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="80" height="80"/></code>
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="80" height="80"/></code>
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" alt="ansible" width="80" height="80"/></code>
-  <code><img src="https://github.com/devicons/devicon/blob/master/icons/icinga/icinga-original-wordmark.svg" alt="icinga" width="80" height="80"></code>
-</p>
+  <h3 align="center">Operating Systems</h3>
+  <div align="center">
+    <table>
+      <tr>
+        <td align="center" width="96">
+          <b>Linux</b>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+        </td>
+        <td align="center" width="96">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" width="48" height="48" alt="Debian" />
+        </td>
+      </tr>
+    </table>
+  </div>
+  
+
+  <h3 align="center">Tools</h3>
+  <div align="center">
+    <table>
+      <tr>
+        <td align="center" width="96">
+          <b>Git</b>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+        </td>
+        <td align="center" width="96">
+          <b>Icinga</b>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/icinga/icinga-original.svg" width="48" height="48" alt="Icinga" />
+        </td>
+        <td align="center" width="96">
+          <b>Ansible</b>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" width="48" height="48" alt="Ansible" />
+        </td>
+      </tr>
+    </table>
+  </div>
+
+  <h3 align="center">IDE's and Code Editors</h3>
+  <div align="center">
+    <table>
+      <tr>
+        <td align="center" width="96">
+          <b>VSCode</b>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VSCode" />
+        </td>
+      </tr>
+    </table>
+  </div>
+</details>
